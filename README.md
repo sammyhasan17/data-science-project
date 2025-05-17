@@ -6,3 +6,5 @@ testing git
 lets see
 
 test for source ctr in vs code
+
+test for terminal push
